@@ -1,0 +1,2 @@
+rootProject.name='My okeoce'
+include ':app'
